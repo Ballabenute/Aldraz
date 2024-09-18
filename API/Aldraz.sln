@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aldraz", "Aldraz\Aldraz.csproj", "{F6DAC58B-F296-47FA-BD05-7986C7191599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6DAC58B-F296-47FA-BD05-7986C7191599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6DAC58B-F296-47FA-BD05-7986C7191599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6DAC58B-F296-47FA-BD05-7986C7191599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6DAC58B-F296-47FA-BD05-7986C7191599}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A13C668-E495-482F-8BB5-32F7874F3EEE}
+	EndGlobalSection
+EndGlobal
